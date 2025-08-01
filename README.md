@@ -20,7 +20,8 @@ Job Satisfaction Heatmap
 
 Work-Life Balance vs Retention
 
-## Overview of the dashboard
+## 📸Overview of the dashboard
+![Image Alt](image_url)
 
 
 ## 📊 Key Insights from the HR Data Analytics Project
